@@ -1,0 +1,25 @@
+# Compiled program
+myls
+myls.exe
+
+# Object files
+*.o
+*.obj
+
+# Test directories
+test_midterm/
+test_sort/
+test_recursive/
+
+# Test output files
+expected.txt
+actual.txt
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*~
